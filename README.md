@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @monishajg
-- 👀 I’m interested in, well, whatever I'm interested at the moment :P As of Dec '22, that would be passing my bootcamp >.<
-- 🌱 I’m currently learning JAVA!
-- 💞️ I’m looking to collaborate on nothing at the moment soz
+- 👀 I’m interested in passing my bootcamp >.<
+- 🌱 I’m currently learning Java, Spring Boot!
 - 📫 You can message me over at my LinkedIn profile!
 
 <!---
